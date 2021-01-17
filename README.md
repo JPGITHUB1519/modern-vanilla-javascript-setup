@@ -1,6 +1,7 @@
 # Modern Vanilla Javascript Setup with Webpack and Babel
 
-Website Link: (https://jpgithub1519.github.io/modern-vanilla-javascript-setup/)[https://jpgithub1519.github.io/modern-vanilla-javascript-setup/]
+Website Link: 
+[https://jpgithub1519.github.io/modern-vanilla-javascript-setup/](https://jpgithub1519.github.io/modern-vanilla-javascript-setup/)
 
 ## Resources
 
@@ -25,8 +26,14 @@ Website Link: (https://jpgithub1519.github.io/modern-vanilla-javascript-setup/)[
 
 ## Github Pages Deployment
 
-Deploying Dist folder to github pages [https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550](https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550)
+Deploying Dist folder to github pages guide: 
+
+From the current branch(development or master) run:
 ```git subtree push --prefix dist origin gh-pages```
+
+[https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550](https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550)
+
+## Github Pages Guides
 
 [https://pages.github.com/](https://pages.github.com/)
 [https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
