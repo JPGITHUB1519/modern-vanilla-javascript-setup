@@ -35,6 +35,7 @@ Website Link:
 **Deploying Dist folder to github pages guide**: 
 
 From the current branch(development or master) run:
+
 ```git subtree push --prefix dist origin gh-pages```
 
 [https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550](https://github.community/t/is-it-possible-to-load-site-from-dist-folder/10550)
