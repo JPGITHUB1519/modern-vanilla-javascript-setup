@@ -15,3 +15,11 @@
 ## Babel Resources
 [https://babeljs.io/docs/en/usage](https://babeljs.io/docs/en/usage)
 [https://babeljs.io/docs/en/babel-polyfill](https://babeljs.io/docs/en/babel-polyfill)
+
+
+## HTML Webpack Plugin
+[https://webpack.js.org/plugins/html-webpack-plugin/](https://webpack.js.org/plugins/html-webpack-plugin/)
+[https://github.com/jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
+
+
+
