@@ -1,8 +1,8 @@
-import { test } from './test';
+import { greeting } from './external';
 
-const variable = 'Webpack Project3';
+greeting();
 
-test();
+const variable = 'World';
 console.log(`Hello ${variable}`);
 
 
