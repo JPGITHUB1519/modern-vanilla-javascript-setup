@@ -30,7 +30,7 @@ Responsive Media Queries
 @media only screen and (min-width: 992px) {
   .container {
     margin-left: auto;
-    margin: auto;
+    margin-right: auto;
     width: 960px;
   }
 }
