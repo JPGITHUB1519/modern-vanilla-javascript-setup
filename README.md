@@ -38,6 +38,12 @@ npm script for deployment:
 
 or do it manually:
 
+```
+  npm run build
+  commit -m "deployment message"
+  git subtree push --prefix dist origin gh-pages
+```
+
 **Deploying Dist folder to github pages guide**: 
 
 From the current branch(development or master) run:
