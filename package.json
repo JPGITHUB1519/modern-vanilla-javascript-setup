@@ -6,6 +6,7 @@
   "scripts": {
     "start": "webpack serve --config ./webpack.config.js --mode development",
     "build": "webpack --mode production",
+    "deploy": "bash deploy.bash",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

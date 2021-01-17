@@ -32,6 +32,12 @@ Website Link:
 
 ## Github Pages Deployment
 
+npm script for deployment:
+
+```npm run deploy```
+
+or do it manually:
+
 **Deploying Dist folder to github pages guide**: 
 
 From the current branch(development or master) run:
