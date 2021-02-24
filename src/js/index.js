@@ -1,4 +1,5 @@
 import { greeting } from './external';
+import "../main.css"
 
 greeting();
 
