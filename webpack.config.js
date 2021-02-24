@@ -12,15 +12,15 @@ module.exports = {
       }
     ]
   },
+  resolve: {
+    extensions: ['*', '.js']
+  },
   plugins: [
     new HtmlWebpackPlugin({
       filename: "index.html",
       template: "./src/index.html"
     })
   ],
-  resolve: {
-    extensions: ['*', '.js']
-  },
   output: {
     path: path.resolve(__dirname, './dist'),
     filename: 'js/bundle.js'
