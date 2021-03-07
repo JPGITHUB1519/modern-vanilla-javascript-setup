@@ -26,7 +26,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '',
-    filename: 'js/bundle.js',
+    filename: 'js/[name].[contenthash].js', // every time we change the source code the file hash will change
     assetModuleFilename: 'img/[hash][ext][query]',
     clean: true  // to clean the output directory, we do not need a plugin rn
   }
